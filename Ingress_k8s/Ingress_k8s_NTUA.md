@@ -79,4 +79,5 @@ And we deploy it with the following command: ```microk8s kubectl apply -f ingres
 With the above command cat ingress.yaml we can see the content of the file.
 
 ![](Screenshots/Aspose.Words.25e931a1-9994-430f-991b-4aa73c00fecd.013.png)![](Screenshots/Aspose.Words.25e931a1-9994-430f-991b-4aa73c00fecd.014.png)
+
 We can visit the application at: http://my-app.com
